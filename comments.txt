@@ -1,0 +1,23 @@
+/* @font-face {
+    font-family: Garamond;
+    src: url('fonts\CormorantGaramond-Medium.ttf');
+}
+@font-face {
+    font-family: Garamond;
+    font-weight: bold;
+    src: url('fonts\CormorantGaramond-Bold.ttf');
+}
+@font-face {
+    font-family: Garamond;
+    font-style: italic;
+    src: url('fonts\CormorantGaramond-MediumItalic.ttf');
+} 
+
+git add .
+git commit -m smth
+git push origin
+
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
+*/
